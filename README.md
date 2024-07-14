@@ -1,1 +1,1 @@
-# CodeAlpha_Java-Internship
+This are my tasks involved in my python internship at CodeAlpha
