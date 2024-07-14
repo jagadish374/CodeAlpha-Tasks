@@ -1,1 +1,1 @@
-This are my tasks involved in my python internship at CodeAlpha
+These are my tasks involved in my python internship at CodeAlpha
